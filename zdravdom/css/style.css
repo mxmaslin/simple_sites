@@ -1,0 +1,96 @@
+body{font-family: "Roboto", sans-serif;
+	color: #FAF3BC;
+	background: #0f2209 url("../img/backgroundimage.jpg") no-repeat;
+	background-position: center top;
+}
+
+a{color: #4FB69F;
+text-decoration:none;}
+
+h1{
+	font-size: 1.500em;
+	letter-spacing:  -1px;
+	margin-bottom: 30px
+}
+
+h2{
+	font-size: 1.250em;
+	color: #B4C34F;
+}
+
+.motto{
+	font-size: 1em;
+	color: #B4C34F;
+	text-transform:uppercase;
+	font-family: Times, serif;
+	font-weight: bold;
+	letter-spacing: 3px;
+}
+
+.logosmall{
+	margin-left: 20px;
+}
+
+.logo{
+	margin-top: 40px;
+}
+
+.btn{
+	color: #FAF3BC;
+	background: #4FB69F;
+	padding: 15px 30px;
+/*	margin: 40px 0px;*/
+	border-radius: 25px;
+	text-transform: uppercase;
+}
+.btn:hover{
+	background-color: #4CC4A7;
+}
+
+ul.nav{
+	margin: 180px 0 0 0;
+	list-style: none;
+	float: right;
+	color: #FAF3BC;
+	background: #4FB69F;
+	padding: 3px 5px;
+	border-radius: 15px;
+}
+
+ul.nav li{
+	float: left;
+	margin-right: 15px;
+}
+
+ul.nav li a{
+	color: #FAF3BC;
+}
+
+ul.nav li a:hover{
+	background-color: #4CC4A7;
+	padding: 2px 0px;
+	border-radius: 8px;
+}
+
+.foto{
+	border: 8px solid #FAF3BC;
+	margin: 0 0 20px 0;
+}
+
+#intro{
+	margin: 0px 0 0 0;
+}
+
+#wethezdravdom img{
+	border: 8px solid #FAF3BC;
+	margin: 0 0 20px 0;
+}
+#fotooftheday img{
+	border: 8px solid #FAF3BC;
+}
+#copyright{
+	border-top: 8px solid #0b1907;
+	padding: 10px 0px;
+	margin: 15px 0px;
+	text-align: center;
+}
